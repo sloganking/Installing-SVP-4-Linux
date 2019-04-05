@@ -23,7 +23,7 @@ RAM: 32 GB
 sudo apt-get install mediainfo
 ```
 
-### mpv and Vapoursynth:
+### mpv and Vapoursynth
 ```Bash
 sudo add-apt-repository ppa:djcj/vapoursynth 
 sudo apt-get update 
