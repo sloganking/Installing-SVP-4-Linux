@@ -1,4 +1,4 @@
-# SVP-Linux-Dependancies
+# Installing-SVP-4-Linux
 
 This repository lists the installation instructions for [Smooth Video Project 4](https://www.svp-team.com/wiki/Download) on Linux Mint as of April 4, 2019
 
